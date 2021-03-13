@@ -17,7 +17,7 @@ Download program.
 
 Extract E-Commerce-Vonte_Shoes-master.zip 
 
-Letakkan folder E-Commerce-Vonte_Shoes-master.zip kedalam C:\xampp\htdocs
+Letakkan folder E-Commerce-Vonte_Shoes-master.zip kedalam C:\\xampp\\htdocs
 
 Nyalakan server apache dan mysql pada xampp 
 
